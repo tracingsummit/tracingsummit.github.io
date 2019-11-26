@@ -4,9 +4,9 @@ title: Tracing Summit 2008
 subtitle: 
 redirect_from:
   - /wiki/TracingSummit2008/
-  - /wiki/Tracing_Summit_Presentations_2008
-  - /wiki/List_of_Participants
-  - /wiki/Location,_Travel,_Special_Event
+  - /wiki/Tracing_Summit_Presentations_2008/
+  - /wiki/List_of_Participants/
+  - /wiki/Location,_Travel,_Special_Event/
 ---
 
 New electronic services rely on an increasingly sophisticated infrastructure composed of powerful servers, numerous fixed or mobile clients, and the system and networking software. The central processing units have evolved from simple processors, to symmetric multi-processors (SMP), non-uniform memory access (NUMA) SMPs and more recently multi-core (SMP on a single chip) systems. Embedded soft and hard real-time multi-core multi-computer systems are exceedingly difficult to debug and tune. Many problems, often timing related, only show under real loads, when the hardware (cache, page tables, synchronization) and software (operating system, virtual machines, libraries and applications) are interacting in real-time. The development time of distributed, online, applications is a major stumbling block for creating new services. Tools are needed to extract precise, globally ordered, debugging and performance data while minimizing the overhead on the systems under test. This data must be made available to suitable monitoring, visualization and analysis frameworks.
