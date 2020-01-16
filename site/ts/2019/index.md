@@ -18,7 +18,7 @@ The Tracing Summit is single-day, single-track conference on the topic of tracin
 * **10:50 - 11:20** [A new flexible architecture for Trace Compass](tracecompass), [(slides)](files/Tracingsummit2019-theia-dagenais.pdf) [(video)](https://youtu.be/8s5vGf45e-g), Michel Dagenais (Polytechnique Montreal) 
 * **11:20 - 11:50** [DTrace-on-eBPF](dtrace), [(slides)](files/) [(video)](https://youtu.be/e5vioyQT7Yk), Kris Van Hees (Oracle) 
 * **11:50 - 13:20** Lunch (Not included) 
-* **13:20 - 13:50** [Intel Trace Hub usage on Intel Android platform](tracehub), [[(slides)](files/Tracingsummit2019-trace-hub-tian.pdf)](), Baofeng Tian (Intel Corporation) 
+* **13:20 - 13:50** [Intel Trace Hub usage on Intel Android platform](tracehub), [(slides)](files/Tracingsummit2019-trace-hub-tian.pdf), Baofeng Tian (Intel Corporation) 
 * **13:50 - 14:20** [Integration of the LTTng user-space tracer with the rseq system call](lttng), [(slides)](files/Tracingsummit2019-rseq-desnoyers.pdf) [(video)](https://youtu.be/70xIjFPwae0), Mathieu Desnoyers (EfficiOS) 
 * **14:20 - 14:50** [uftrace updates and dynamic tracing](uftrace), [(slides)](files/Tracingsummit2019-uftrace-kim.pdf) [(video)](https://youtu.be/oc8xR1JZXcM), Namhyung Kim (Google) 
 * **14:50 - 15:05** Break 
