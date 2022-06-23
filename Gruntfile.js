@@ -1,7 +1,7 @@
 module.exports = function(grunt) {
     grunt.initConfig({
         dirs: {
-            site: 'site',
+            site: 'docs',
             dev: 'dev',
             prod: 'prod'
         },
