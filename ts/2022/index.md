@@ -2,7 +2,6 @@
 layout: page
 title: Tracing Summit 2022
 subtitle:
-redirect_from: /wiki/Main_Page/
 ---
 
 The 2022 Tracing Summit is a three-day, single-track conference on the topic of tracing. The event focuses on software and hardware tracing, gathering developers and end-users of tracing and trace analysis tools. The main goal of the Tracing Summit is to provide space for discussion between people of the various areas that benefit from tracing, namely parallel, distributed and/or real-time systems, as well as kernel development.
@@ -48,7 +47,3 @@ Those can cover recently available technologies, ongoing work, and yet non-exist
 
 ## Contact
 Please send any query about this conference to [info@tracingsummit.org](mailto:info@tracingsummit.org).
-
-It is organized by the [Linux Foundation Diagnostic and Monitoring Workgroup](https://diamon.org).
-
-You can subscribe to [our mailing list](https://eepurl.com/goakfv) to get the latest news about this year's Tracing Summit as well as future events.
