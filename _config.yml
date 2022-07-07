@@ -15,6 +15,7 @@ author: EfficiOS
 
 navbar-links:
   Past editions:
+    - TS 2022: "/"
     - TS 2019: "/ts/2019"
     - TS 2018: "/ts/2018"
     - TS 2017: "/ts/2017"
