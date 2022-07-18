@@ -16,7 +16,7 @@ The 2022 Tracing Summit is a three-day, single-track conference on the topic of 
 This year tickets are free and seating is limited to 80 people. To register fill out this form: [Tracing Summit Registration](https://docs.google.com/forms/d/1BZLiTlUEiwzetS3cWnYDYU6Js_EUkmCqLWEU7hJyM60/edit).
 
 ## Presentation Proposals
-The Call for Proposals can be found here [Tracing Summit October 2022 - Call for Proposals](https://docs.google.com/forms/d/e/1FAIpQLSf65-LaD5EiYSxSN6D6XGRazExSur0SW7oG6ZIpGpDN4ra_rg/viewform).
+The Call for Proposals can be found here [Tracing Summit October 2022 - Call for Proposals](https://docs.google.com/forms/d/e/1FAIpQLSf65-LaD5EiYSxSN6D6XGRazExSur0SW7oG6ZIpGpDN4ra_rg/viewform), it will close on September 1st 2022. The talk selection will then be confirmed by September 9th 2022.
 
 ## Schedule
 To be finalised.
