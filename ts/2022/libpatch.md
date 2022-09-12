@@ -29,3 +29,8 @@ runtime overhead.  It abstracts away the process of [un]patching
 binaries from the architecture.  Finally, it aims to be a common module
 for tools such as GDB, LTTng and uftrace, to help in their dynamic
 patching.
+
+## Biography
+Olivier Dion is a Master's student under the supervision of Michel
+Dagenais at Polytechnique Montréal. His research focus on dynamic
+instrumentation culminated in Libpatch.
