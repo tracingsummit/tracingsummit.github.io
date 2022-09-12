@@ -13,13 +13,18 @@ The 2022 Tracing Summit is a three-day, single-track conference on the topic of 
 - Cost: Free
 
 ## Registration
-We've run out of seating for attendees, you can still join the waitlist by filling this form: [Tracing Summit Waitlist](https://docs.google.com/forms/d/e/1FAIpQLScaHabfZ8rZ2z_vun_iePMcu6H1AqlODJpuJeuyUh9GmhFWEw/viewform). Or you can attend as a speaker by participating in the CFP.
+Join the waitlist by filling in this form: [Tracing Summit Waitlist](https://docs.google.com/forms/d/e/1FAIpQLScaHabfZ8rZ2z_vun_iePMcu6H1AqlODJpuJeuyUh9GmhFWEw/viewform), seats are still becoming available!
 
 ## Presentation Proposals
-The Call for Proposals can be found here [Tracing Summit October 2022 - Call for Proposals](https://docs.google.com/forms/d/e/1FAIpQLSf65-LaD5EiYSxSN6D6XGRazExSur0SW7oG6ZIpGpDN4ra_rg/viewform), it will close on September 6th 2022. The talk selection will then be confirmed by September 9th 2022.
+The Call for Proposals for this event closed on September 9th 2022.
 
 ## Schedule
-To be finalised.
+Timings to be finalised.
+* [LTTng: Beyond Ring-Buffer Based Tracing](/ts/2022/beyondtheringbuffer), Jérémie Galarneau (EfficiOS)
+* [Libpatch - Dynamic patching of binaries in userspace](/ts/2022/libpatch), Olivier Dion (Polytechnique Montréal)
+* [Visual eBPF: Live Programming Observability on Linux](/ts/2022/visualebpf), Nikita Baksalyar
+* [Analysing Perfetto Android traces at every scale](/ts/2022/analysingandroidtraces), Lalit Maganti (Google)
+* [Adding the Interaction to Next Paint Metric to Perfetto](/ts/2022/nextpaint), Patricija Cerkaite
 
 ## Presentations
 We are welcoming 30 minute presentations from both end users and developers, on topics covering, but not limited to:
