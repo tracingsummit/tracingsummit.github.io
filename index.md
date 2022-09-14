@@ -25,6 +25,8 @@ Timings to be finalised.
 * [Visual eBPF: Live Programming Observability on Linux](/ts/2022/visualebpf), Nikita Baksalyar
 * [Analysing Perfetto Android traces at every scale](/ts/2022/analysingandroidtraces), Lalit Maganti (Google)
 * [Adding the Interaction to Next Paint Metric to Perfetto](/ts/2022/nextpaint), Patricija Cerkaite
+* [Bringing network and time together using Linux tracing](/ts/2022/networkandtime), Alexander Aring (Red Hat)
+* More talks to be confirmed!
 
 ## Presentations
 We are welcoming 30 minute presentations from both end users and developers, on topics covering, but not limited to:
