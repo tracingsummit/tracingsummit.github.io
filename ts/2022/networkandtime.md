@@ -18,3 +18,8 @@ distributed network protocols as well and is not limited for debugging
 use cases. Moreover, we will look into overcoming problems and
 possible new ideas on how to use time synchronized tracing events in a
 distributed network.
+
+## Biography
+Alex works on his main job to hack on the Linux Distributed Lock
+Manager and figured out Linux tracing can be useful to understand
+complex DLM protocol behaviours a little bit more.
