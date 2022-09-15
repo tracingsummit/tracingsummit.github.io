@@ -26,6 +26,11 @@ Timings to be finalised.
 * [Analysing Perfetto Android traces at every scale](/ts/2022/analysingandroidtraces), Lalit Maganti (Google)
 * [Adding the Interaction to Next Paint Metric to Perfetto](/ts/2022/nextpaint), Patricija Cerkaite
 * [Bringing network and time together using Linux tracing](/ts/2022/networkandtime), Alexander Aring (Red Hat)
+* [Perfetto: state of the union](/ts/2022/perfetto), Primiano Tucci (Google)
+* [High Throughput of eBPF Events for Execution Patterns Detections](/ts/2022/ebpfpatterns), Rafael David Tinoco & Nadav Strahilevitz (Aqua Security)
+* [eBPF cross-layer (L3-7) tracing of multiplexed RPC transports](/ts/2022/ebpfrpc), Wenbo Zhu (Google)
+* [Using Tracing in XR System Development](/ts/2022/tracingxr), Jakob Bornecrantz (Collabora)
+* [In-hypervisor tracing for pKVM](/ts/2022/hypervisortracing), Vincent Donnefort (Google)
 * More talks to be confirmed!
 
 ## Presentations
