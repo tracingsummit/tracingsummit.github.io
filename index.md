@@ -27,7 +27,7 @@ Join the waitlist by filling in this form: [Tracing Summit Waitlist](https://doc
 * [High Throughput of eBPF Events for Execution Patterns Detections](/ts/2022/ebpfpatterns), Rafael David Tinoco & Nadav Strahilevitz (Aqua Security)
 * [eBPF cross-layer (L3-7) tracing of multiplexed RPC transports](/ts/2022/ebpfrpc), Wenbo Zhu (Google)
 * [Using Tracing in XR System Development](/ts/2022/tracingxr), Jakob Bornecrantz (Collabora)
-* [In-hypervisor tracing for pKVM](/ts/2022/hypervisortracing), Vincent Donnefort (Google)
+* [pKVM in-hypervisor tracing for ftrace](/ts/2022/hypervisortracing), Vincent Donnefort (Google)
 * [Hardware trace for software developers](/ts/2022/hardware), Al Grant (ARM)
 * More talks to be confirmed!
 
@@ -90,7 +90,7 @@ Please let an organiser know if you have any dietary requirements.
     <td class="tg-2b7s">10:30</td>
     <td class="tg-baqh" rowspan="2"><a href="/ts/2022/beyondtheringbuffer"><span style="font-style:italic">LTTng: Beyond</span><br><span style="font-style:italic">Ring-Buffer Based Tracing</span></a><br>Jérémie Galarneau, EfficiOS</td>
     <td class="tg-baqh" rowspan="2"><a href="/ts/2022/libpatch"><span style="font-style:italic">Libpatch - Dynamic patching of </span><br><span style="font-style:italic">binaries in userspace</span></a><br>Olivier Dion, Polytechnique Montréal<br></td>
-    <td class="tg-baqh" rowspan="2"><a href="/ts/2022/hypervisortracing"><span style="font-style:italic">in-hypervisor tracing for pKVM</span></a><br>Vincent Donnefort, Google</td>
+    <td class="tg-baqh" rowspan="2"><a href="/ts/2022/hypervisortracing"><span style="font-style:italic">pKVM in-hypervisor tracing for ftrace</span></a><br>Vincent Donnefort, Google</td>
   </tr>
   <tr>
     <td class="tg-2b7s">10:45</td>
