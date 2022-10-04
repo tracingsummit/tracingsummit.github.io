@@ -8,13 +8,20 @@ redirect_from: /wiki/Main_Page/
 The 2022 Tracing Summit is a three-day, single-track conference on the topic of tracing. The event focuses on software and hardware tracing, gathering developers and end-users of tracing and trace analysis tools. The main goal of the Tracing Summit is to provide space for discussion between people of the various areas that benefit from tracing, namely parallel, distributed and/or real-time systems, as well as kernel development.
 
 ## Details
-- Location: **Google, Central St Giles 1 - 13 St Giles High Street, London, WC2H 8AG, UK** [<- NEW LOCATION!](#new-location).
+- Location: **Google, Central St Giles 1 - 13 St Giles High Street, London, WC2H 8AG, UK**
 - Dates: Tuesday the 11th to Thursday the 13th of October, 2022
 - Cost: Free
 - Meals: Lunch is provided, For breakfast and dinner there are many options available near the conference venue.
+- Join the public chat: [https://discord.gg/zRukEkHbFE](https://discord.gg/zRukEkHbFE)
+- Google Calander of the schedule: [https://bit.ly/3UZ6L5Y](https://bit.ly/3UZ6L5Y)
 
 ## Registration
-Join the waitlist by filling in this form: [Tracing Summit Waitlist](https://docs.google.com/forms/d/e/1FAIpQLScaHabfZ8rZ2z_vun_iePMcu6H1AqlODJpuJeuyUh9GmhFWEw/viewform), seats are still becoming available!
+Want to attend last minute? Email hjd@google.com.
+
+## Livestreams
+- Day 1: Link TBC
+- Day 2: [https://www.youtube.com/watch?v=takRcl8AXGc](https://www.youtube.com/watch?v=takRcl8AXGc)
+- Day 3: Link TBC
 
 ## Talks
 * [LTTng: Beyond Ring-Buffer Based Tracing](/ts/2022/beyondtheringbuffer), Jérémie Galarneau (EfficiOS)
@@ -34,11 +41,12 @@ Join the waitlist by filling in this form: [Tracing Summit Waitlist](https://doc
 ## Schedule
 The conference runs from 10:00 - 16:45 from Tuesday the 11th of October till Thursday the 13th of October 2022.
 
-
 The room will be open from 09:30 on Wednesday and Thursday and from 09:00 on Tuesday for badge pickup.
 Copious coffee and snacks will be available throughout the day.
 Catered lunch is provided, vegetarian and vegan options are available.
 Please let an organiser know if you have any dietary requirements.
+
+Google Calander of the schedule: [https://bit.ly/3UZ6L5Y](https://bit.ly/3UZ6L5Y).
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
@@ -54,7 +62,7 @@ Please let an organiser know if you have any dietary requirements.
   <tr>
     <th class="tg-2b7s"></th>
     <th class="tg-baqh">Day 1<br>Tuesday 11th Oct</th>
-    <th class="tg-baqh">Day 2<br>Wednesday 12th Oct</th>
+    <th class="tg-baqh">Day 2<br><a href="https://www.youtube.com/watch?v=takRcl8AXGc">Wednesday 12th Oct</a></th>
     <th class="tg-baqh">Day 3<br>Thursday 13th Oct</th>
   </tr>
 </thead>
