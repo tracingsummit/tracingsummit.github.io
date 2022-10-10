@@ -41,7 +41,7 @@ Want to attend last minute? Email hjd@google.com.
 ## Schedule
 The conference runs from 10:00 - 16:45 from Tuesday the 11th of October till Thursday the 13th of October 2022.
 
-The room will be open from 09:30 on Wednesday and Thursday and from 09:00 on Tuesday for badge pickup.
+The room will be open from 09:00 on Tuesday for badge pickup, and from 09:30 on Wednesday and Thursday.
 Copious coffee and snacks will be available throughout the day.
 Catered lunch is provided, vegetarian and vegan options are available.
 Please let an organiser know if you have any dietary requirements.
