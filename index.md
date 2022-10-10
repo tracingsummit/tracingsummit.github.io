@@ -19,9 +19,9 @@ The 2022 Tracing Summit is a three-day, single-track conference on the topic of 
 Want to attend last minute? Email hjd@google.com.
 
 ## Livestreams
-- Day 1: Link TBC
-- Day 2: [https://www.youtube.com/watch?v=takRcl8AXGc](https://www.youtube.com/watch?v=takRcl8AXGc)
-- Day 3: Link TBC
+- Day 1: [https://youtu.be/UfHMIOju-uU](https://youtu.be/UfHMIOju-uU)
+- Day 2: [https://youtu.be/takRcl8AXGc](https://youtu.be/takRcl8AXGc)
+- Day 3: [https://youtu.be/R0lhBR4Zfqg](https://youtu.be/R0lhBR4Zfqg)
 
 ## Talks
 * [LTTng: Beyond Ring-Buffer Based Tracing](/ts/2022/beyondtheringbuffer), Jérémie Galarneau (EfficiOS)
@@ -61,9 +61,9 @@ Google Calander of the schedule: [https://bit.ly/3UZ6L5Y](https://bit.ly/3UZ6L5Y
 <thead>
   <tr>
     <th class="tg-2b7s"></th>
-    <th class="tg-baqh">Day 1<br>Tuesday 11th Oct</th>
-    <th class="tg-baqh">Day 2<br><a href="https://www.youtube.com/watch?v=takRcl8AXGc">Wednesday 12th Oct</a></th>
-    <th class="tg-baqh">Day 3<br>Thursday 13th Oct</th>
+    <th class="tg-baqh">Day 1<br><a href="https://youtu.be/UfHMIOju-uU">Tuesday 11th Oct</a></th>
+    <th class="tg-baqh">Day 2<br><a href="https://youtu.be/takRcl8AXGc">Wednesday 12th Oct</a></th>
+    <th class="tg-baqh">Day 3<br><a href="https://youtu.be/R0lhBR4Zfqg">Thursday 13th Oct</a></th>
   </tr>
 </thead>
 <tbody>
