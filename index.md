@@ -13,7 +13,7 @@ The 2022 Tracing Summit is a three-day, single-track conference on the topic of 
 - Cost: Free
 - Meals: Lunch is provided, For breakfast and dinner there are many options available near the conference venue.
 - Join the public chat: [https://discord.gg/zRukEkHbFE](https://discord.gg/zRukEkHbFE)
-- Google Calander of the schedule: [https://bit.ly/3UZ6L5Y](https://bit.ly/3UZ6L5Y)
+- Google Calendar of the schedule: [https://bit.ly/3UZ6L5Y](https://bit.ly/3UZ6L5Y)
 
 ## Registration
 Want to attend last minute? Email hjd@google.com.
@@ -46,7 +46,7 @@ Copious coffee and snacks will be available throughout the day.
 Catered lunch is provided, vegetarian and vegan options are available.
 Please let an organiser know if you have any dietary requirements.
 
-Google Calander of the schedule: [https://bit.ly/3UZ6L5Y](https://bit.ly/3UZ6L5Y).
+Google Calendar of the schedule: [https://bit.ly/3UZ6L5Y](https://bit.ly/3UZ6L5Y).
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
