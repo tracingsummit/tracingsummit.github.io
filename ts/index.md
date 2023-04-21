@@ -4,6 +4,7 @@ title: Tracing Summit Past Editions
 subtitle: 
 ---
 
+* [2022](2022)
 * [2019](2019)
 * [2018](2018)
 * [2017](2017)
