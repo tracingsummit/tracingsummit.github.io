@@ -34,8 +34,8 @@ Want to attend last minute? Email hjd@google.com.
 * [High Throughput of eBPF Events for Execution Patterns Detections](/ts/2022/ebpfpatterns), [(slides)](files/Tracing_Summit_2022-Tracee_Rafael_David_Tinoco_.pdf), Rafael David Tinoco & Nadav Strahilevitz (Aqua Security)
 * [eBPF cross-layer (L3-7) tracing of multiplexed RPC transports](/ts/2022/ebpfrpc), [(slides)](files/Tracing_Summit_2022-eBPF_Cross-layer_Tracing_of_Multiplexed_RPC_Transports_Wenbo_Zhu_.pptx), Wenbo Zhu (Google)
 * [Using Tracing in XR System Development](/ts/2022/tracingxr), [(slides)](files/Tracing_Summit_2022-Frame_Tracing_Jakob_Bornecrantz_.pptx), Jakob Bornecrantz (Collabora)
-* [pKVM in-hypervisor tracing for ftrace](/ts/2022/hypervisortracing), [(slides)](files/Tracing_Summit_2022-pKVM_in-hypervisor_tracing_for_ftrace_tracefs_Vincent_Donnefort.pdf) Vincent Donnefort (Google)
-* [Hardware trace for software developers](/ts/2022/hardware), [(slides)](files/Tracing_Summit_2022-Hardware_trace_for_software_developers_Al_Grant.pdf) Al Grant (ARM)
+* [pKVM in-hypervisor tracing for ftrace](/ts/2022/hypervisortracing), [(slides)](files/Tracing_Summit_2022-pKVM_in-hypervisor_tracing_for_ftrace_tracefs_Vincent_Donnefort.pdf), Vincent Donnefort (Google)
+* [Hardware trace for software developers](/ts/2022/hardware), [(slides)](files/Tracing_Summit_2022-Hardware_trace_for_software_developers_Al_Grant.pdf), Al Grant (ARM)
 * More talks to be confirmed!
 
 ## Schedule
