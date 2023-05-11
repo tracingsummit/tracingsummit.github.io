@@ -39,7 +39,7 @@ You can either register on our stand-alone platform or as an add-on to the Open 
 
 ## Presentation Proposals
 
-Presentation proposals is open!
+Presentation proposals are open!
 
 [Submit a talk](https://cfp.tracingsummit.org/ts2023/cfp)
 
