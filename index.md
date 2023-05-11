@@ -5,12 +5,18 @@ subtitle:
 redirect_from: /wiki/Main_Page/
 ---
 
-The 2023 Tracing Summit is a conference on the topic of tracing. The event focuses on software and hardware tracing, gathering developers and end-users of tracing and trace analysis tools. The main goal of the Tracing Summit is to provide space for discussion between people of the various areas that benefit from tracing, namely parallel, distributed and/or real-time systems, as well as kernel development.
+The Tracing Summit is a two-day, single-track conference on the topic of
+tracing. The event focuses on software and hardware tracing, gathering
+developers and end-users of tracing and trace analysis tools. The main goal of
+the Tracing Summit is to provide space for discussion between people of the
+various areas that benefit from tracing, namely parallel, distributed and/or
+real-time systems, as well as kernel development.
 
 ## Details
 
 * Event dates: Sunday, September 17th - Monday, September 18th
-* Location: Bilbao, Spain and virtually. The 2023 Tracing Summit is co-located with Open Source Summit Europe.
+* Location: Bilbao, Spain and virtually. The 2023 Tracing Summit is co-located
+  with the Open Source Summit Europe.
 * Cost
 	* In person: $80.00 USD
     * Speaker: Free
@@ -19,20 +25,23 @@ The 2023 Tracing Summit is a conference on the topic of tracing. The event focus
 
 ## Important dates
 
-* Call for proposals close: Thursday, June 29th, at 11:58PM EDT
-* Call for proposals notifications: Thursday, July 13th
-* Schedule announcement: Thursday, July 20th
+* Call for proposals close: Friday, June 16th, at 11:59PM EDT
+* Call for proposals notifications: Friday, June 23rd
+* Schedule announcement: Tuesday, June 27th
 * Event dates: Sunday, September 17th - Monday, September 18th
 
 ## Registration
 
-Registration is held through the Linux Foundation event platform. Attendees may register separately for the Tracing Summit or as an add-on to their Open Source Summit registration.
+You can either register on our stand-alone platform or as an add-on to the Open Source Summit.
 
-[Register to event](https://events.linuxfoundation.org/open-source-summit-europe/features/co-located-events/)
+* Stand-alone registration is expected to be available soon
+* [Add Tracing Summit as a Open Source Summit add-on](https://events.linuxfoundation.org/open-source-summit-europe/features/co-located-events/)
 
 ## Presentation Proposals
 
 Presentation proposals will open soon!
+
+[Submit a talk](https://cfp.tracingsummit.org/ts2023/cfp)
 
 ## Presentations
 We are welcoming 30 minute presentations from both end users and developers, on topics covering, but not limited to:
@@ -58,13 +67,18 @@ We are welcoming 30 minute presentations from both end users and developers, on 
 * Dynamic instrumentation,
 * Programmable tracing (e.g. eBPF).
 
-Talks can cover recently available technologies, ongoing work, and yet non-existing technologies (that are compelling to end-users). Talks covering interesting or challenging tracing use cases are also welcome as they can reveal future directions or tooling needs. Please understand that this open forum is not the proper place to present sales or marketing pitches, nor technologies which are prevented from being freely used in open source.
+Talks can cover recently available technologies, ongoing work, and yet
+non-existing technologies (that are compelling to end-users). Talks covering
+interesting or challenging tracing use cases are also welcome as they can reveal
+future directions or tooling needs. Please understand that this open forum is
+not the proper place to present sales or marketing pitches, nor technologies
+which are prevented from being freely used in open source.
 
 ## Conference format
 
 * Morning: Presentations
 * Lunch
-* Afternoon: Group discussions (Unconference)
+* Afternoon: Presentations and group discussions (Unconference)
 
 ## Contact
 Please send any questions about this conference to [info@tracingsummit.org](mailto:info@tracingsummit.org).
