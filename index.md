@@ -28,13 +28,11 @@ The 2023 Tracing Summit is a conference on the topic of tracing. The event focus
 
 Registration is held through the Linux Foundation event platform. Attendees may register separately for the Tracing Summit or as an add-on to their Open Source Summit registration.
 
-Registration for the 2023 Tracing Summit is expected to open on May 22nd.
+[Register to event](https://events.linuxfoundation.org/open-source-summit-europe/features/co-located-events/)
 
 ## Presentation Proposals
 
-Presentation proposals are open!
-
-[Submit a talk](https://cfp.tracingsummit.org/ts2023/cfp)
+Presentation proposals will open soon!
 
 ## Presentations
 We are welcoming 30 minute presentations from both end users and developers, on topics covering, but not limited to:
