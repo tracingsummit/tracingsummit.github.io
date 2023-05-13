@@ -87,5 +87,5 @@ It is organized by the [Linux Foundation Diagnostic and Monitoring Workgroup](ht
 
 You can subscribe to [our mailing list](https://eepurl.com/goakfv) to get the latest news about this year's Tracing Summit as well as future events.
 
-The organizers of this event are Mathieu Desnoyers, Erica Bugden and Olivier
-Dion.
+The organizers of this event are Mathieu Desnoyers (EfficiOS), Erica Bugden
+(EfficiOS) and Olivier Dion (EfficiOS).
