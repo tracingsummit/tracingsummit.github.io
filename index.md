@@ -80,6 +80,11 @@ which are prevented from being freely used in open source.
 * Lunch
 * Afternoon: Presentations and group discussions (Unconference)
 
+## Sponsors
+
+The Tracing Summit is sponsored by EfficiOS. We are actively looking for
+sponsors to support the Tracing Summit. Contact us at info@tracingsummit.org.
+
 ## Contact
 Please send any questions about this conference to [info@tracingsummit.org](mailto:info@tracingsummit.org).
 
