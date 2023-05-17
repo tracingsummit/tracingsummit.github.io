@@ -34,7 +34,8 @@ real-time systems, as well as kernel development.
 
 You can either register on our stand-alone platform or as an add-on to the Open Source Summit.
 
-* Stand-alone registration is expected to be available soon
+* [Standalone in person](https://cvent.me/Gn0nkR)
+* [Standalone in virtual](https://cvent.me/xywylX)
 * [Add Tracing Summit as a Open Source Summit add-on](https://events.linuxfoundation.org/open-source-summit-europe/features/co-located-events/)
 
 ## Presentation Proposals
