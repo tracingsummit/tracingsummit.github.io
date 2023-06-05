@@ -24,19 +24,18 @@ Want to attend last minute? Email hjd@google.com.
 - Day 3: [https://youtu.be/R0lhBR4Zfqg](https://youtu.be/R0lhBR4Zfqg)
 
 ## Talks
-* [LTTng: Beyond Ring-Buffer Based Tracing](/ts/2022/beyondtheringbuffer), [(slides)](files/Tracing_Summit_2022-LTTng_Beyond_Ring-Buffer_Based_Tracing_Jeremie_Galarneau_.pdf), Jérémie Galarneau (EfficiOS)
-* [Libpatch - Dynamic patching of binaries in userspace](/ts/2022/libpatch), [(slides)](files/Tracing_Summit_2022-Libpatch_Olivier_Dion_.pdf), Olivier Dion (Polytechnique Montréal)
-* [Visual eBPF: Live Programming Observability on Linux](/ts/2022/visualebpf), [(slides)](files/Tracing_Summit_2022-Visual_eBPF_Live_Programming_Observability_on_Linux_Nikita_Baksalyar.pdf), Nikita Baksalyar
-* [Analysing Perfetto Android traces at every scale](/ts/2022/analysingandroidtraces), [(slides)](files/Tracing_Summit_2022-Analyzing_Perfetto_traces_at_every_scale_Lalit_Maganti.pdf), Lalit Maganti (Google)
-* [Adding the Interaction to Next Paint Metric to Perfetto](/ts/2022/nextpaint), [(slides)](files/Tracing_Summit_2022-Adding_INP_Metric_to_Perfetto_Patricija_Cerkaite_.pptx), Patricija Cerkaite
-* [Bringing network and time together using Linux tracing](/ts/2022/networkandtime), [(slides)](files/Tracing_Summit_2022-Bring_network_and_time_together_using_Linux_tracing_Alexander_Aring_.pdf), Alexander Aring (Red Hat)
-* [Perfetto: state of the union](/ts/2022/perfetto), [(slides)](files/Tracing_Summit_2022-Perfetto_Primiano_Tucci_.pptx), Primiano Tucci (Google)
-* [High Throughput of eBPF Events for Execution Patterns Detections](/ts/2022/ebpfpatterns), [(slides)](files/Tracing_Summit_2022-Tracee_Rafael_David_Tinoco_.pdf), Rafael David Tinoco & Nadav Strahilevitz (Aqua Security)
-* [eBPF cross-layer (L3-7) tracing of multiplexed RPC transports](/ts/2022/ebpfrpc), [(slides)](files/Tracing_Summit_2022-eBPF_Cross-layer_Tracing_of_Multiplexed_RPC_Transports_Wenbo_Zhu_.pptx), Wenbo Zhu (Google)
-* [Using Tracing in XR System Development](/ts/2022/tracingxr), [(slides)](files/Tracing_Summit_2022-Frame_Tracing_Jakob_Bornecrantz_.pptx), Jakob Bornecrantz (Collabora)
-* [pKVM in-hypervisor tracing for ftrace](/ts/2022/hypervisortracing), [(slides)](files/Tracing_Summit_2022-pKVM_in-hypervisor_tracing_for_ftrace_tracefs_Vincent_Donnefort.pdf), Vincent Donnefort (Google)
-* [Hardware trace for software developers](/ts/2022/hardware), [(slides)](files/Tracing_Summit_2022-Hardware_trace_for_software_developers_Al_Grant.pdf), Al Grant (ARM)
-* More talks to be confirmed!
+* [LTTng: Beyond Ring-Buffer Based Tracing](/ts/2022/beyondtheringbuffer), [(slides)](files/Tracing_Summit_2022-LTTng_Beyond_Ring-Buffer_Based_Tracing_Jeremie_Galarneau_.pdf), [(video)](https://youtu.be/fwM4pVQRbPM) Jérémie Galarneau (EfficiOS)
+* [Libpatch - Dynamic patching of binaries in userspace](/ts/2022/libpatch), [(slides)](files/Tracing_Summit_2022-Libpatch_Olivier_Dion_.pdf), [(video)](https://youtu.be/UmcQ4XrJbVU), Olivier Dion (Polytechnique Montréal)
+* [Visual eBPF: Live Programming Observability on Linux](/ts/2022/visualebpf), [(slides)](files/Tracing_Summit_2022-Visual_eBPF_Live_Programming_Observability_on_Linux_Nikita_Baksalyar.pdf), [(video)](https://youtu.be/x7C-hj_Y-xk), Nikita Baksalyar
+* [Analysing Perfetto Android traces at every scale](/ts/2022/analysingandroidtraces), [(slides)](files/Tracing_Summit_2022-Analyzing_Perfetto_traces_at_every_scale_Lalit_Maganti.pdf), [(video)](https://youtu.be/eWF3h0VW1mk), Lalit Maganti (Google)
+* [Adding the Interaction to Next Paint Metric to Perfetto](/ts/2022/nextpaint), [(slides)](files/Tracing_Summit_2022-Adding_INP_Metric_to_Perfetto_Patricija_Cerkaite_.pptx), [(video)](https://youtu.be/BZZAGo2HJPE), Patricija Cerkaite
+* [Bringing network and time together using Linux tracing](/ts/2022/networkandtime), [(slides)](files/Tracing_Summit_2022-Bring_network_and_time_together_using_Linux_tracing_Alexander_Aring_.pdf), [(video)](https://youtu.be/6BavjRwOMMQ), Alexander Aring (Red Hat)
+* [Perfetto: state of the union](/ts/2022/perfetto), [(slides)](files/Tracing_Summit_2022-Perfetto_Primiano_Tucci_.pptx), [(video)](https://youtu.be/C10gmidnw7A), Primiano Tucci (Google)
+* [High Throughput of eBPF Events for Execution Patterns Detections](/ts/2022/ebpfpatterns), [(slides)](files/Tracing_Summit_2022-Tracee_Rafael_David_Tinoco_.pdf), [(video)](https://youtu.be/ZAVZcCgz5Ko), Rafael David Tinoco & Nadav Strahilevitz (Aqua Security)
+* [eBPF cross-layer (L3-7) tracing of multiplexed RPC transports](/ts/2022/ebpfrpc), [(slides)](files/Tracing_Summit_2022-eBPF_Cross-layer_Tracing_of_Multiplexed_RPC_Transports_Wenbo_Zhu_.pptx), [(video)](https://youtu.be/-rVkhlDqZbA), Wenbo Zhu (Google)
+* [Using Tracing in XR System Development](/ts/2022/tracingxr), [(slides)](files/Tracing_Summit_2022-Frame_Tracing_Jakob_Bornecrantz_.pptx), [(video)](https://youtu.be/XSlbHgzE7xs), Jakob Bornecrantz (Collabora)
+* [pKVM in-hypervisor tracing for ftrace](/ts/2022/hypervisortracing), [(slides)](files/Tracing_Summit_2022-pKVM_in-hypervisor_tracing_for_ftrace_tracefs_Vincent_Donnefort.pdf), [(video)](https://youtu.be/qdUNQ7vxeb4), Vincent Donnefort (Google)
+* [Hardware trace for software developers](/ts/2022/hardware), [(slides)](files/Tracing_Summit_2022-Hardware_trace_for_software_developers_Al_Grant.pdf), [(video)](https://youtu.be/v1ADDoW7biU), Al Grant (ARM)
 
 ## Schedule
 The conference runs from 10:00 - 16:45 from Tuesday the 11th of October till Thursday the 13th of October 2022.
