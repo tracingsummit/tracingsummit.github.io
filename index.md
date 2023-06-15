@@ -81,6 +81,12 @@ which are prevented from being freely used in open source.
 * Lunch
 * Afternoon: Presentations and group discussions (Unconference)
 
+The Tracing Summit is part presentations, and part work conference. Like last
+year, we plan to have "unconference" style sessions in the afternoons, where
+attendees can spontaneously express their interest to discuss various topics in
+sub-groups. Participation in this part of the conference will likely only be
+available for in-person attendees.
+
 ## Sponsors
 
 The Tracing Summit is sponsored by EfficiOS. We are actively looking for
