@@ -40,7 +40,7 @@ You can either register on our stand-alone platform or as an add-on to the Open 
 
 ## Talks
 
-* [libside](/ts/2023/libside), Mathieu Desnoyers (EfficiOS)
+* [libside: Giving the preprocessor a break with a tracer-agnostic instrumentation API](/ts/2023/libside), Mathieu Desnoyers (EfficiOS)
 * [From tracing to kernel programming](/ts/2023/ebpf), Alexei Starovoitov
 * [Trying to use uprobes and BPF on non-C userspace](/ts/2023/bpf-non-c), Arnaldo Carvalho de Melo
 * [LTTng: The peril of user-space tracing](/ts/2023/lttng), Olivier Dion (EfficiOS)
@@ -96,7 +96,7 @@ This is not the definitive schedule.
 
 <tr>
 <td class="org-right">10:45</td>
-<td class="org-left">Libside</td>
+<td class="org-left">libside: Giving the preprocessor a break with a tracer-agnostic instrumentation API</td>
 <td class="org-left">Trying to use uprobes and BPF on non-C userspace</td>
 </tr>
 
