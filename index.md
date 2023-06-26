@@ -43,7 +43,7 @@ You can either register on our stand-alone platform or as an add-on to the Open 
 * [libside](/ts/2023/libside), Mathieu Desnoyers (EfficiOS)
 * [From tracing to kernel programming](/ts/2023/ebpf), Alexei Starovoitov
 * [Trying to use uprobes and BPF on non-C userspace](/ts/2023/bpf-non-c), Arnaldo Carvalho de Melo
-* [LTTng update](/ts/2023/lttng), Olivier Dion (EfficiOS)
+* [LTTng: The peril of user-space tracing](/ts/2023/lttng), Olivier Dion (EfficiOS)
 * [ThreadMonitor: Low-overhead Data Race Detection using Intel Processor Trace](/ts/2023/tmon), Farzam Dorostkar (Polytechnique Montréal)
 * [Enhancing Performance Tracing and Debugging in Remote Deployments](/ts/2023/remote), Alankrit Kharbanda and AJ Ortega (Google)
 * [Programmable dynamic tracing on Linux with DTrace using BPF](/ts/2023/dtrace), Dr. Kris Van Hees (Oracle)
