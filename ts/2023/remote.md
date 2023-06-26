@@ -21,9 +21,12 @@ This presentation will discuss the challenges of remote deployments and how
 in-memory asynchronous logging and trace analysis can be used to address these
 challenges. The presentation will cover the following topics:
 
-    1. The foundations and principles of in-memory asynchronous logging;
-    2. The benefits of in-memory asynchronous logging; analysis of logs - traceability, queryability, and performance measurement through trace aggregation ;
-    3. A case study on the use of this technique and trace modeling, extraction, analysis and automation with Google Cloud Platform (GCP)
+1. The foundations and principles of in-memory asynchronous logging;
+2. The benefits of in-memory asynchronous logging; analysis of logs -
+   traceability, queryability, and performance measurement through trace
+   aggregation ;
+3. A case study on the use of this technique and trace modeling, extraction,
+   analysis and automation with Google Cloud Platform (GCP)
 
 The presentation will conclude with a discussion of the outcomes and performance
 improvements observed in the case study. Problems such as tracing journeys,
