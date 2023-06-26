@@ -120,7 +120,7 @@ This is not the definitive schedule.
 
 <tr>
 <td class="org-right">13:30</td>
-<td class="org-left">LTTng update</td>
+<td class="org-left">LTTng: The peril of user-space tracing</td>
 <td class="org-left">Programmable dynamic tracing on Linux with DTrace using BPF</td>
 </tr>
 
