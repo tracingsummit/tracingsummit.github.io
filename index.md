@@ -114,8 +114,8 @@ This is not the definitive schedule.
 
 <tr>
 <td class="org-right">12:00</td>
-<td class="org-left">Lunch</td>
-<td class="org-left">Lunch</td>
+<td class="org-left">Lunch (not included)</td>
+<td class="org-left">Lunch (not included)</td>
 </tr>
 
 <tr>
