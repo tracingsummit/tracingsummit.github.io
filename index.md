@@ -90,7 +90,7 @@ This is not the definitive schedule.
 
 <tr>
 <td class="org-right">10:15</td>
-<td class="org-left">SFrame</td>
+<td class="org-left">New developments in the SFrame stack trace format</td>
 <td class="org-left">From tracing to kernel programming</td>
 </tr>
 
