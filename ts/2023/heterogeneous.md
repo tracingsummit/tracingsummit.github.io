@@ -5,7 +5,7 @@ title: Tracing Heterogeneous Programing Models with Lttng and Babeltrace
 
 ## Abstract
 
-THAPI (Tracing Heterogeneous APIs / https://github.com/argonne-lcf/THAPI) is an
+[THAPI](https://github.com/argonne-lcf/THAPI) (Tracing Heterogeneous APIs) is an
 open-source tracing infrastructure for HPC platforms that use accelerators,
 developed at Argonne National Laboratory. It intercepts the low-level API calls
 (L0, CUDA driven, Cuda Runtime, HIP, OpenCL, OpenMP) in order to dump their
