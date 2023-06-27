@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ThreadMonitor: Low-overhead Data Race Detection using Intel Processor Trace
+title: "ThreadMonitor: Low-overhead Data Race Detection using Intel Processor Trace"
 ---
 
 ## Abstract

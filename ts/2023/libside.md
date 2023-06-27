@@ -1,6 +1,6 @@
 ---
 layout: page
-title: libside: Giving the preprocessor a break with a tracer-agnostic instrumentation API
+title: "libside: Giving the preprocessor a break with a tracer-agnostic instrumentation API"
 ---
 
 ## Abstract
