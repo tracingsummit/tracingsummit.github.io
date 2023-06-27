@@ -40,17 +40,16 @@ You can either register on our stand-alone platform or as an add-on to the Open 
 
 ## Talks
 
+* [New developments in the SFrame stack trace format](/ts/2023/sframe), Indu Bhagat (Oracle)
 * [libside: Giving the preprocessor a break with a tracer-agnostic instrumentation API](/ts/2023/libside), Mathieu Desnoyers (EfficiOS)
+* [Enhancing Performance Tracing and Debugging in Remote Deployments](/ts/2023/remote), Alankrit Kharbanda and AJ Ortega (Google)
+* [LTTng: The peril of user-space tracing](/ts/2023/lttng), Olivier Dion (EfficiOS)
+* [Tracing Heterogeneous Programing Models with Lttng and Babeltrace](/ts/2023/heterogeneous), Thomas Applencourt and Brice Videau (Argonne National Laboratory)
 * [From tracing to kernel programming](/ts/2023/ebpf), Alexei Starovoitov
 * [Trying to use uprobes and BPF on non-C userspace](/ts/2023/bpf-non-c), Arnaldo Carvalho de Melo
-* [LTTng: The peril of user-space tracing](/ts/2023/lttng), Olivier Dion (EfficiOS)
 * [ThreadMonitor: Low-overhead Data Race Detection using Intel Processor Trace](/ts/2023/tmon), Farzam Dorostkar (Polytechnique Montréal)
-* [Enhancing Performance Tracing and Debugging in Remote Deployments](/ts/2023/remote), Alankrit Kharbanda and AJ Ortega (Google)
 * [Programmable dynamic tracing on Linux with DTrace using BPF](/ts/2023/dtrace), Dr. Kris Van Hees (Oracle)
-* [New developments in the SFrame stack trace format](/ts/2023/sframe), Indu Bhagat (Oracle)
-* [Tracing Heterogeneous Programing Models with Lttng and Babeltrace](/ts/2023/heterogeneous), Thomas Applencourt and Brice Videau (Argonne National Laboratory)
 * [Reliable User Space TLS tracing with eBPF](/ts/2023/tls), Dom Del Nano (New Relic)
-
 
 ## Schedule
 
