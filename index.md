@@ -42,13 +42,13 @@ You can either register on our stand-alone platform or as an add-on to the Open 
 
 * [New developments in the SFrame stack trace format](/ts/2023/sframe), Indu Bhagat (Oracle)
 * [libside: Giving the preprocessor a break with a tracer-agnostic instrumentation API](/ts/2023/libside), Mathieu Desnoyers (EfficiOS)
-* [Enhancing Performance Tracing and Debugging in Remote Deployments](/ts/2023/remote), Alankrit Kharbanda and AJ Ortega (Google)
+* [Collecting telemetry data from low latency microservices](/ts/2023/telemetry), Eya-Tom Augustin Sangam (Polytechnique Montréal)
 * [LTTng: The peril of user-space tracing](/ts/2023/lttng), Olivier Dion (EfficiOS)
 * [Tracing Heterogeneous Programing Models with Lttng and Babeltrace](/ts/2023/heterogeneous), Thomas Applencourt and Brice Videau (Argonne National Laboratory)
 * [From tracing to kernel programming](/ts/2023/ebpf), Alexei Starovoitov
 * [Trying to use uprobes and BPF on non-C userspace](/ts/2023/bpf-non-c), Arnaldo Carvalho de Melo
 * [ThreadMonitor: Low-overhead Data Race Detection using Intel Processor Trace](/ts/2023/tmon), Farzam Dorostkar (Polytechnique Montréal)
-* [Programmable dynamic tracing on Linux with DTrace using BPF](/ts/2023/dtrace), Dr. Kris Van Hees (Oracle)
+* [Enhancing Performance Tracing and Debugging in Remote Deployments](/ts/2023/remote), Alankrit Kharbanda and AJ Ortega (Google)
 * [Reliable User Space TLS tracing with eBPF](/ts/2023/tls), Dom Del Nano (New Relic)
 
 ## Schedule
@@ -107,7 +107,7 @@ This is not the definitive schedule.
 
 <tr>
 <td class="org-right">11:30</td>
-<td class="org-left">Enhancing Performance Tracing and Debugging in Remote Deployments</td>
+<td class="org-left">Collecting telemetry data from low latency microservices</td>
 <td class="org-left">ThreadMonitor: Low-overhead Data Race Detection using Intel Processor Trace</td>
 </tr>
 
@@ -120,7 +120,7 @@ This is not the definitive schedule.
 <tr>
 <td class="org-right">13:30</td>
 <td class="org-left">LTTng: The peril of user-space tracing</td>
-<td class="org-left">Programmable dynamic tracing on Linux with DTrace using BPF</td>
+<td class="org-left">Enhancing Performance Tracing and Debugging in Remote Deployments</td>
 </tr>
 
 <tr>
