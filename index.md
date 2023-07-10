@@ -133,18 +133,24 @@ Tentative schedule.
 <tr>
 <td class="org-right">14:30</td>
 <td class="org-left">Break</td>
-<td class="org-left">Programmable dynamic tracing on Linux with DTrace using BPF (virtual)</td>
+<td class="org-left" rowspan="2">Programmable dynamic tracing on Linux with DTrace using BPF (virtual)</td>
 </tr>
 
 <tr>
 <td class="org-right">14:45</td>
-<td class="org-left">Unconference</td>
-<td class="org-left">Programmable dynamic tracing on Linux with DTrace using BPF (virtual)</td>
+<td class="org-left" row-span="3">Unconference</td>
+<td class="org-left"></td>
 </tr>
 
 <tr>
 <td class="org-right">15:00</td>
-<td class="org-left">Unconference</td>
+<td class="org-left"></td>
+<td class="org-left">Break</td>
+</tr>
+
+<tr>
+<td class="org-right">15:15</td>
+<td class="org-left"></td>
 <td class="org-left">Unconference</td>
 </tr>
 
