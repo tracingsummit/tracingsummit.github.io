@@ -138,7 +138,7 @@ Tentative schedule.
 
 <tr>
 <td class="org-right">14:45</td>
-<td class="org-left" row-span="3">Unconference</td>
+<td class="org-left" rowspan="3">Unconference</td>
 <td class="org-left"></td>
 </tr>
 
