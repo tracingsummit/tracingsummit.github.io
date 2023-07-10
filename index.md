@@ -139,18 +139,15 @@ Tentative schedule.
 <tr>
 <td class="org-right">14:45</td>
 <td class="org-left" rowspan="3">Unconference</td>
-<td class="org-left"></td>
 </tr>
 
 <tr>
 <td class="org-right">15:00</td>
-<td class="org-left"></td>
 <td class="org-left">Break</td>
 </tr>
 
 <tr>
 <td class="org-right">15:15</td>
-<td class="org-left"></td>
 <td class="org-left">Unconference</td>
 </tr>
 
