@@ -50,6 +50,7 @@ You can either register on our stand-alone platform or as an add-on to the Open 
 * [ThreadMonitor: Low-overhead Data Race Detection using Intel Processor Trace](/ts/2023/tmon), Farzam Dorostkar (Polytechnique Montréal)
 * [Enhancing Performance Tracing and Debugging in Remote Deployments](/ts/2023/remote), Alankrit Kharbanda and AJ Ortega (Google)
 * [Reliable User Space TLS tracing with eBPF](/ts/2023/tls), Dom Del Nano (New Relic)
+* [Programmable dynamic tracing on Linux with DTrace using BPF](/ts/2023/dtrace), Dr. Kris Van Hees (Oracle)
 
 ## Schedule
 
@@ -89,7 +90,7 @@ Tentative schedule.
 
 <tr>
 <td class="org-right">10:15</td>
-<td class="org-left">New developments in the SFrame stack trace format</td>
+<td class="org-left">New developments in the SFrame stack trace format (virtual)</td>
 <td class="org-left">From tracing to kernel programming</td>
 </tr>
 
@@ -132,14 +133,21 @@ Tentative schedule.
 <tr>
 <td class="org-right">14:30</td>
 <td class="org-left">Break</td>
-<td class="org-left">Break</td>
+<td class="org-left">Programmable dynamic tracing on Linux with DTrace using BPF (virtual)</td>
 </tr>
 
 <tr>
 <td class="org-right">14:45</td>
 <td class="org-left">Unconference</td>
+<td class="org-left">Programmable dynamic tracing on Linux with DTrace using BPF (virtual)</td>
+</tr>
+
+<tr>
+<td class="org-right">15:00</td>
+<td class="org-left">Unconference</td>
 <td class="org-left">Unconference</td>
 </tr>
+
 </tbody>
 </table>
 
