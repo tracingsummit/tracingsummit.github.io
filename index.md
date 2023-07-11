@@ -40,7 +40,7 @@ You can either register on our stand-alone platform or as an add-on to the Open 
 
 ## Talks
 
-* [New developments in the SFrame stack trace format](/ts/2023/sframe), Indu Bhagat (Oracle)
+* [New developments in the SFrame stack trace format](/ts/2023/sframe), Jose E. Marchesi and Indu Bhagat (Oracle)
 * [libside: Giving the preprocessor a break with a tracer-agnostic instrumentation API](/ts/2023/libside), Mathieu Desnoyers (EfficiOS)
 * [Collecting telemetry data from low latency microservices](/ts/2023/telemetry), Eya-Tom Augustin Sangam (Polytechnique Montréal)
 * [LTTng: The peril of user-space tracing](/ts/2023/lttng), Olivier Dion (EfficiOS)

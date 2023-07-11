@@ -19,7 +19,20 @@ space stack tracing in the kernel. This talk will cover the progress, and
 discuss ideas for further possible use cases around in-application user space
 stack tracing.
 
-## Biography
+## Biography - Jose E. Marchesi
+
+GNU hacker and maintainer.  Main author and maintainer of GNU poke and GNU
+recutils.  Target maintainer in binutils (BPF, SPARC), GCC (BPF), GDB (BPF) and
+elfutils (BPF, SPARC).  CGEN global maintainer.  Member of the GNU Advisory
+Committee.  Authorized speaker of the GNU Project.  Helps with GNU maintainers
+coordination, the GNU software evaluation team, organization of GNU Hackers
+Meetings, Toolchain MCs/Tracks at LPC, GNU Tools Cauldron, GNU org admin for
+Google's Summer of Code, and several other random janitorial duties.
+Contributor to several other free software programs over the years such as
+Emacs, glibc, gnulib, the Linux kernel, etc.  Currently employed by Oracle as
+the Tech Lead of their Toolchain/Compilers team.
+
+## Biography - Indu Bhagat 
 
 Indu Bhagat is a member of the Linux Toolchain group at Oracle. Recently, she
 has been actively working on the SFrame stack trace format. Previously, she has
