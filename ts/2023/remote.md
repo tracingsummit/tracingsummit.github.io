@@ -40,8 +40,8 @@ traceability and performance measurement in real-world scenarios. Additionally,
 insights into the integration with GCP will be shared, enabling attendees to
 explore the synergy between these technologies.
 
-## Biography - Alankrit Kharbanda
+## Biography 
 
-Alankrit Kharbanda is a Tech Lead at Google Cloud Storage.
+Alankrit Kharbanda and AJ Ortega are tech leads at Google.
 
 
