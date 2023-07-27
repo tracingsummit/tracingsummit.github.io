@@ -54,7 +54,7 @@ You can either register on our stand-alone platform or as an add-on to the Open 
 
 ## Schedule
 
-The conference runs from 09:00 - 17:00 from Sunday the 17th of September till
+The conference runs from 09:00AM - 5:00PM EDT from Sunday the 17th of September till
 Monday the 18th of September 2023.
 
 Definitive schedule.
