@@ -23,6 +23,18 @@ real-time systems, as well as kernel development.
     * Virtual: Free
 * Coffees and snacks are available in the morning and afternoon.
 
+### In-Person Attendees
+
+* Location: Euskalduna Conference Center, Bilbao, Spain.
+* Room Information: Level 0, Room 0D2/0D3
+* Food: All day beverages, AM & PM breaks, but no lunch provided - there will be
+  lunch maps at registration with a list of local lunch options within walking
+  distance.
+
+### Virtual Attendees
+
+Here is the link to join the conference live stream: *TBD*.
+
 ## Important dates
 
 * Call for proposals close: Friday, June 16th, at 11:59PM EDT
