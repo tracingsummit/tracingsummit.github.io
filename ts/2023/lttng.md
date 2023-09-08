@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "LTTng: The peril of user-space tracing"
+title: "LTTng: The perils of user-space tracing"
 ---
 
 ## Abstract
