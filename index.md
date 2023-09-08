@@ -33,7 +33,8 @@ real-time systems, as well as kernel development.
 
 ### Virtual Attendees
 
-Here is the link to join the conference live stream: *TBD*.
+Links for the virtual meeting will be sent to registered virtual attendees the
+16th September.
 
 ## Important dates
 
