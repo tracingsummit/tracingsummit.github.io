@@ -55,6 +55,7 @@ You can either register on our stand-alone platform or as an add-on to the Open 
 
 ### Day 1
 
+* **8:00 - 9:00**   Registration
 * **9:00 - 10:00**  Coffee & Snacks
 * **10:00 - 10:15** Introduction
 * **10:15 - 10:45** [ThreadMonitor: Low-overhead Data Race Detection using Intel Processor Trace](/ts/2023/tmon), Farzam Dorostkar (Polytechnique Montréal)
@@ -69,6 +70,7 @@ You can either register on our stand-alone platform or as an add-on to the Open 
 
 ### Day 2
 
+* **8:00 - 9:00**   Registration
 * **9:00 - 10:00**  Coffee & Snacks
 * **10:00 - 10:15** Introduction
 * **10:15 - 10:45** [From tracing to kernel programming](/ts/2023/ebpf), Alexei Starovoitov
