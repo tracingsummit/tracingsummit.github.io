@@ -33,8 +33,8 @@ real-time systems, as well as kernel development.
 
 ### Virtual Attendees
 
-Day 1: https://zoom.us/j/98784695878
-Day 2: https://zoom.us/j/97545788314
+* [Day 1](https://zoom.us/j/98784695878)
+* [Day 2](https://zoom.us/j/97545788314)
 
 ## Important dates
 
