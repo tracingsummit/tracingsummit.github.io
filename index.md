@@ -15,7 +15,7 @@ real-time systems, as well as kernel development.
 ## Details
 
 * Event dates: Sunday, September 17th - Monday, September 18th
-* Location: Euskalduna Conference Centre, Bilbao, Spain, and virtually. The 2023 Tracing Summit is co-located
+* Location: [Euskalduna Conference Centre, Bilbao, Spain](https://maps.app.goo.gl/PyRRfbW1H9fgJZew5), and virtually. The 2023 Tracing Summit is co-located
   with the Open Source Summit Europe.
 * Cost
 	* In person: $80.00 USD
