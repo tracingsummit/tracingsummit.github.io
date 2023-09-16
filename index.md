@@ -51,121 +51,36 @@ You can either register on our stand-alone platform or as an add-on to the Open 
 * [Standalone virtual](https://cvent.me/xywylX)
 * [Add Tracing Summit as an Open Source Summit add-on](https://events.linuxfoundation.org/open-source-summit-europe/features/co-located-events/)
 
-## Talks
-
-* [ThreadMonitor: Low-overhead Data Race Detection using Intel Processor Trace](/ts/2023/tmon), Farzam Dorostkar (Polytechnique Montréal)
-* [libside: Giving the preprocessor a break with a tracer-agnostic instrumentation API](/ts/2023/libside), Mathieu Desnoyers (EfficiOS)
-* [Collecting telemetry data from low latency microservices](/ts/2023/telemetry), Eya-Tom Augustin Sangam (Polytechnique Montréal)
-* [LTTng: The challenges of user-space tracing](/ts/2023/lttng), Olivier Dion (EfficiOS)
-* [Tracing Heterogeneous Programing Models with Lttng and Babeltrace](/ts/2023/heterogeneous), Thomas Applencourt and Brice Videau (Argonne National Laboratory)
-* [From tracing to kernel programming](/ts/2023/ebpf), Alexei Starovoitov
-* [Trying to use uprobes and BPF on non-C userspace](/ts/2023/bpf-non-c), Arnaldo Carvalho de Melo
-* [New developments in the SFrame stack trace format](/ts/2023/sframe), Jose E. Marchesi and Indu Bhagat (Oracle)
-* [Enhancing Performance Tracing and Debugging in Remote Deployments](/ts/2023/remote), Alankrit Kharbanda and AJ Ortega (Google)
-* [Reliable User Space TLS tracing with eBPF](/ts/2023/tls), Dom Del Nano (New Relic)
-* [Programmable dynamic tracing on Linux with DTrace using BPF](/ts/2023/dtrace), Dr. Kris Van Hees (Oracle)
-
 ## Schedule
 
-The conference runs from 09:00AM - 5:00PM CEST from Sunday the 17th of September till
-Monday the 18th of September 2023.
+### Day 1
 
-Definitive schedule.
+* **9:00 - 10:00**  Coffee & Snacks
+* **10:00 - 10:15** Introduction
+* **10:15 - 10:45** [ThreadMonitor: Low-overhead Data Race Detection using Intel Processor Trace](/ts/2023/tmon), Farzam Dorostkar (Polytechnique Montréal)
+* **10:45 - 11:15** [libside: Giving the preprocessor a break with a tracer-agnostic instrumentation API](/ts/2023/libside), Mathieu Desnoyers (EfficiOS)
+* **11:15 - 11:30** Break
+* **11:30 - 12:00** [Collecting telemetry data from low latency microservices](/ts/2023/telemetry), Eya-Tom Augustin Sangam (Polytechnique Montréal)
+* **12:00 - 13:30** Lunch (not included)
+* **13:30 - 14:00** [LTTng: The challenges of user-space tracing](/ts/2023/lttng), Olivier Dion (EfficiOS)
+* **14:00 - 14:30** [Tracing Heterogeneous Programing Models with Lttng and Babeltrace](/ts/2023/heterogeneous), Thomas Applencourt and Brice Videau (Argonne National Laboratory)
+* **14:30 - 15:00** Break
+* **15:00 - 17:00** Unconference
 
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+### Day 2
 
-<colgroup>
-<col  class="org-right" />
-
-<col  class="org-left" />
-
-<col  class="org-left" />
-</colgroup>
-<thead>
-<tr>
-<th scope="col" class="org-right">Time</th>
-<th scope="col" class="org-left">Day 1</th>
-<th scope="col" class="org-left">Day 2</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td class="org-right">09:00</td>
-<td class="org-left">Coffee &amp; Snacks</td>
-<td class="org-left">Coffee &amp; Snacks</td>
-</tr>
-
-<tr>
-<td class="org-right">10:00</td>
-<td class="org-left">Introduction</td>
-<td class="org-left">Introduction</td>
-</tr>
-
-<tr>
-<td class="org-right">10:15</td>
-<td class="org-left">ThreadMonitor: Low-overhead Data Race Detection using Intel Processor Trace</td>
-<td class="org-left">From tracing to kernel programming</td>
-</tr>
-
-<tr>
-<td class="org-right">10:45</td>
-<td class="org-left">libside: Giving the preprocessor a break with a tracer-agnostic instrumentation API</td>
-<td class="org-left">Trying to use uprobes and BPF on non-C userspace</td>
-</tr>
-
-<tr>
-<td class="org-right">11:15</td>
-<td class="org-left">Break</td>
-<td class="org-left">Break</td>
-</tr>
-
-<tr>
-<td class="org-right">11:30</td>
-<td class="org-left">Collecting telemetry data from low latency microservices</td>
-<td class="org-left">New developments in the SFrame stack trace format</td>
-</tr>
-
-<tr>
-<td class="org-right">12:00</td>
-<td class="org-left">Lunch (not included)</td>
-<td class="org-left">Lunch (not included)</td>
-</tr>
-
-<tr>
-<td class="org-right">13:30</td>
-<td class="org-left">LTTng: The challenges of user-space tracing</td>
-<td class="org-left">Enhancing Performance Tracing and Debugging in Remote Deployments</td>
-</tr>
-
-<tr>
-<td class="org-right">14:00</td>
-<td class="org-left">Tracing Heterogeneous Programing Models with Lttng and Babeltrace (virtual)</td>
-<td class="org-left">Reliable User Space TLS tracing with eBPF</td>
-</tr>
-
-<tr>
-<td class="org-right">14:30</td>
-<td class="org-left">Break</td>
-<td class="org-left" rowspan="2">Programmable dynamic tracing on Linux with DTrace using BPF (virtual)</td>
-</tr>
-
-<tr>
-<td class="org-right">14:45</td>
-<td class="org-left" rowspan="3">Unconference</td>
-</tr>
-
-<tr>
-<td class="org-right">15:00</td>
-<td class="org-left">Break</td>
-</tr>
-
-<tr>
-<td class="org-right">15:15</td>
-<td class="org-left">Unconference</td>
-</tr>
-
-</tbody>
-</table>
+* **9:00 - 10:00**  Coffee & Snacks
+* **10:00 - 10:15** Introduction
+* **10:15 - 10:45** [From tracing to kernel programming](/ts/2023/ebpf), Alexei Starovoitov
+* **10:45 - 11:15** [Trying to use uprobes and BPF on non-C userspace](/ts/2023/bpf-non-c), Arnaldo Carvalho de Melo
+* **11:15 - 11:30** Break
+* **11:30 - 12:00** [New developments in the SFrame stack trace format](/ts/2023/sframe), Jose E. Marchesi and Indu Bhagat (Oracle)
+* **12:00 - 13:30** Lunch (not included)
+* **13:30 - 14:00** [Enhancing Performance Tracing and Debugging in Remote Deployments](/ts/2023/remote), Alankrit Kharbanda and AJ Ortega (Google)
+* **14:00 - 14:30** [Reliable User Space TLS tracing with eBPF](/ts/2023/tls), Dom Del Nano (New Relic)
+* **14:30 - 15:00** [Programmable dynamic tracing on Linux with DTrace using BPF](/ts/2023/dtrace), Dr. Kris Van Hees (Oracle)
+* **15:00 - 15:15** Break
+* **15:15 - 17:00** Unconference
 
 ## Conference format
 
