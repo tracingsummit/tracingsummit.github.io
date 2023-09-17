@@ -62,10 +62,10 @@ You can either register on our stand-alone platform or as an add-on to the Open 
 * **10:45 - 11:15** [libside: Giving the preprocessor a break with a tracer-agnostic instrumentation API](/ts/2023/libside), Mathieu Desnoyers (EfficiOS)
 * **11:15 - 11:30** Break
 * **11:30 - 12:00** [Collecting telemetry data from low latency microservices](/ts/2023/telemetry), Eya-Tom Augustin Sangam (Polytechnique Montréal)
-* **12:00 - 13:30** Lunch (not included)
-* **13:30 - 14:00** [LTTng: The challenges of user-space tracing](/ts/2023/lttng), Olivier Dion (EfficiOS)
-* **14:00 - 14:30** [Tracing Heterogeneous Programing Models with Lttng and Babeltrace (virtual)](/ts/2023/heterogeneous), Thomas Applencourt and Brice Videau (Argonne National Laboratory)
-* **14:30 - 15:00** Break
+* **12:00 - 13:45** Lunch (not included)
+* **13:45 - 14:15** [LTTng: The challenges of user-space tracing](/ts/2023/lttng), Olivier Dion (EfficiOS)
+* **14:15 - 14:45** [Tracing Heterogeneous Programing Models with Lttng and Babeltrace (virtual)](/ts/2023/heterogeneous), Thomas Applencourt and Brice Videau (Argonne National Laboratory)
+* **14:45 - 15:00** Break
 * **15:00 - 17:00** Unconference
 
 ### Day 2
