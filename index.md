@@ -76,7 +76,7 @@ You can either register on our stand-alone platform or as an add-on to the Open 
 * **10:15 - 10:45** [From tracing to kernel programming](/ts/2023/ebpf), Alexei Starovoitov
 * **10:45 - 11:15** [Trying to use uprobes and BPF on non-C userspace](/ts/2023/bpf-non-c), Arnaldo Carvalho de Melo
 * **11:15 - 11:30** Break
-* **11:30 - 12:00** [New developments in the SFrame stack trace format (virtual)](/ts/2023/sframe), Jose E. Marchesi and Indu Bhagat (Oracle)
+* **11:30 - 12:00** [New developments in the SFrame stack trace format (virtual)](/ts/2023/sframe), Indu Bhagat and Jose E. Marchesi (Oracle)
 * **12:00 - 13:30** Lunch (not included)
 * **13:30 - 14:00** [Enhancing Performance Tracing and Debugging in Remote Deployments](/ts/2023/remote), Alankrit Kharbanda and AJ Ortega (Google)
 * **14:00 - 14:30** [Reliable User Space TLS tracing with eBPF](/ts/2023/tls), Dom Del Nano (New Relic)
