@@ -78,7 +78,7 @@ You can either register on our stand-alone platform or as an add-on to the Open 
 * **11:15 - 11:30** Break
 * **11:30 - 12:00** [New developments in the SFrame stack trace format (virtual)](/ts/2023/sframe), [(slides)](/ts/2023/files/SFrame_TracingSummit2023.pdf), Indu Bhagat and Jose E. Marchesi (Oracle)
 * **12:00 - 14:00** Lunch (not included)
-* **14:00 - 14:30** [Enhancing Performance Tracing and Debugging in Remote Deployments](/ts/2023/remote), Alankrit Kharbanda and AJ Ortega (Google)
+* **14:00 - 14:30** [Enhancing Performance Tracing and Debugging in Remote Deployments](/ts/2023/remote), [(slides)](/ts/2023/files/Performance-Tracing-and-Debugging-in-Remote-Deployments.pdf), Alankrit Kharbanda and AJ Ortega (Google)
 * **14:30 - 15:00** [Reliable User Space TLS tracing with eBPF](/ts/2023/tls), [(slides)](/ts/2023/files/Tracing_Summit_2023-Dom_Del_Nano.pdf), Dom Del Nano (New Relic)
 * **15:00 - 15:30** [Programmable dynamic tracing on Linux with DTrace using BPF (virtual)](/ts/2023/dtrace), [(slides)](/ts/2023/files/TracingSummit-2023-DTrace.pdf), Dr. Kris Van Hees (Oracle)
 * **15:30 - 15:45** Break
