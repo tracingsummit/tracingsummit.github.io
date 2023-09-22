@@ -12,6 +12,11 @@ the Tracing Summit is to provide space for discussion between people of the
 various areas that benefit from tracing, namely parallel, distributed and/or
 real-time systems, as well as kernel development.
 
+## Videos
+
+Talk recordings for the 2023 Tracing Summit will be available in early October
+on the [DiaMon Workgroup Youtube channel](https://www.youtube.com/@diamonworkgroup9/videos).
+
 ## Details
 
 * Event dates: Sunday, September 17th - Monday, September 18th
