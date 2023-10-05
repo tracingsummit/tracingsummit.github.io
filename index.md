@@ -68,7 +68,7 @@ You can either register on our stand-alone platform or as an add-on to the Open 
 * **11:30 - 12:00** [Collecting telemetry data from low latency microservices](/ts/2023/telemetry), [(slides)](/ts/2023/files/Collecting_telemetry_data_from_low_latency_microservices.pdf), [(video)](https://youtu.be/YXcz_SMMZRs), Eya-Tom Augustin Sangam (Polytechnique Montréal)
 * **12:00 - 13:45** Lunch (not included)
 * **13:45 - 14:15** [LTTng: The challenges of user-space tracing](/ts/2023/lttng), [(slides)](/ts/2023/files/tracing-summit-2023-lttng-userspace.pdf), [(video)](https://youtu.be/Ct4QFhN5A28), Olivier Dion (EfficiOS)
-* **14:15 - 14:45** [Tracing Heterogeneous Programming Models with Lttng and Babeltrace (virtual)](/ts/2023/heterogeneous),  [(slides)](/ts/2023/files/Heterogeneous_Appencourt_Videau.pdf), [(video)](https://youtu.be/kK7KmEL_zCw), Thomas Applencourt and Brice Videau (Argonne National Laboratory)
+* **14:15 - 14:45** [Tracing Heterogeneous Programming Models with Lttng and Babeltrace (virtual)](/ts/2023/heterogeneous),  [(slides)](/ts/2023/files/Heterogeneous_Appencourt_Videau.pdf), [(video)](), Thomas Applencourt and Brice Videau (Argonne National Laboratory)
 * **14:45 - 15:00** Break
 * **15:00 - 17:00** Unconference
 
