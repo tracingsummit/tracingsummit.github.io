@@ -16,6 +16,9 @@ real-time systems, as well as kernel development.
 
 Talk recordings for the 2023 Tracing Summit are now available on the [DiaMon Workgroup Youtube channel](https://www.youtube.com/playlist?list=PLuo4E47p5_7Z_hu6HhfjxfhlscdMZZ7Un)!
 
+You will find there the [Tracing Summit Introduction](https://youtu.be/NHImUzUQv94), summary for the unconferences of [day 1](https://youtu.be/qryiKWkVzLk) and [day 2](https://youtu.be/eYhgSl7RHF4) while individual talks are listed below.
+
+
 ## Details
 
 * Event dates: Sunday, September 17th - Monday, September 18th
@@ -62,12 +65,12 @@ You can either register on our stand-alone platform or as an add-on to the Open 
 * **8:00 - 9:00**   Registration
 * **9:00 - 10:00**  Coffee & Snacks
 * **10:00 - 10:15** Introduction
-* **10:15 - 10:45** [ThreadMonitor: Low-overhead Data Race Detection using Intel Processor Trace](/ts/2023/tmon), [(slides)](/ts/2023/files/Farzam_Dorostkar-Tracing_Summit.pdf), [(video)](https://youtu.be/FlGsWeIy37E), Farzam Dorostkar (Polytechnique Montréal)
-* **10:45 - 11:15** [libside: Giving the preprocessor a break with a tracer-agnostic instrumentation API](/ts/2023/libside), [(slides)](/ts/2023/files/Tracing-Summit-2023-libside.pdf), [(video)](https://youtu.be/R0abUvBr-lg), Mathieu Desnoyers (EfficiOS)
+* **10:15 - 10:45** [ThreadMonitor: Low-overhead Data Race Detection using Intel Processor Trace](/ts/2023/tmon), [(slides)](/ts/2023/files/Farzam_Dorostkar-Tracing_Summit.pdf), [(video)](https://youtu.be/IvsTHh8cSFc), Farzam Dorostkar (Polytechnique Montréal)
+* **10:45 - 11:15** [libside: Giving the preprocessor a break with a tracer-agnostic instrumentation API](/ts/2023/libside), [(slides)](/ts/2023/files/Tracing-Summit-2023-libside.pdf), [(video)](https://youtu.be/35G4rbf58uY), Mathieu Desnoyers (EfficiOS)
 * **11:15 - 11:30** Break
-* **11:30 - 12:00** [Collecting telemetry data from low latency microservices](/ts/2023/telemetry), [(slides)](/ts/2023/files/Collecting_telemetry_data_from_low_latency_microservices.pdf), [(video)](https://youtu.be/YXcz_SMMZRs), Eya-Tom Augustin Sangam (Polytechnique Montréal)
+* **11:30 - 12:00** [Collecting telemetry data from low latency microservices](/ts/2023/telemetry), [(slides)](/ts/2023/files/Collecting_telemetry_data_from_low_latency_microservices.pdf), [(video)](https://youtu.be/csV3BI4HcJY), Eya-Tom Augustin Sangam (Polytechnique Montréal)
 * **12:00 - 13:45** Lunch (not included)
-* **13:45 - 14:15** [LTTng: The challenges of user-space tracing](/ts/2023/lttng), [(slides)](/ts/2023/files/tracing-summit-2023-lttng-userspace.pdf), [(video)](https://youtu.be/Ct4QFhN5A28), Olivier Dion (EfficiOS)
+* **13:45 - 14:15** [LTTng: The challenges of user-space tracing](/ts/2023/lttng), [(slides)](/ts/2023/files/tracing-summit-2023-lttng-userspace.pdf), [(video)](https://youtu.be/8IONj2UhIQ8), Olivier Dion (EfficiOS)
 * **14:15 - 14:45** [Tracing Heterogeneous Programming Models with Lttng and Babeltrace (virtual)](/ts/2023/heterogeneous),  [(slides)](/ts/2023/files/Heterogeneous_Appencourt_Videau.pdf), [(video)](https://youtu.be/-B30UHlMRUU), Thomas Applencourt and Brice Videau (Argonne National Laboratory)
 * **14:45 - 15:00** Break
 * **15:00 - 17:00** Unconference
