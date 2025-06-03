@@ -21,6 +21,14 @@ real-time systems, as well as kernel development.
 ## Registration
 This year tickets are free and seating is limited to 40 people. To register fill out this form: [Tracing Summit Registration](https://pretix.eu/diamon/ts2025/).
 
+## Venue
+The event will be held at [Montréal CoWork](https://www.montrealcowork.com/),
+[4388 Saint-Denis, Suite 200](https://maps.app.goo.gl/GjRcV3dhgJzx93489).
+Located in the heart of the Plateau Mont-Royal borough, it is less than a 5
+minute walk from the Mont-Royal metro station on the orange line. Please note
+that there is paid parking behind the venue but it is usually full and street
+parking is very challenging in the area.
+
 ## Presentation Proposals
 The Call for Proposals can be found here [Tracing Summit 2025 - Call for Proposals](https://cfp.tracingsummit.org/ts2025/cfp),
 it will close on June 13th 2025. The talk selection will then be confirmed by June 20th 2025.
