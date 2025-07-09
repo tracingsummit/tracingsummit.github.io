@@ -26,13 +26,11 @@ The event will be held at [Montréal CoWork](https://www.montrealcowork.com/),
 [4388 Saint-Denis, Suite 200](https://maps.app.goo.gl/GjRcV3dhgJzx93489).
 Located in the heart of the Plateau Mont-Royal borough, it is less than a 5
 minute walk from the Mont-Royal metro station on the orange line. Please note
-that there is paid parking behind the venue but it is usually full and street
-parking is very challenging in the area.
+that there is paid parking (15$/day) behind the venue but it is often full and
+street parking is very challenging in the area.
 
 ## Presentation Proposals
-The Call for Proposals can be found here [Tracing Summit 2025 - Call for Proposals](https://cfp.tracingsummit.org/ts2025/cfp),
-it will close on June 13th 2025. The talk selection will then be confirmed by June 20th 2025.
-
+The Call for Proposals for this event closed on June 13th.
 
 ## Presentations
 We are welcoming 30 minute presentations from both end users and 
