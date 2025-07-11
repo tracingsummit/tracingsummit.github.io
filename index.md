@@ -29,6 +29,10 @@ minute walk from the Mont-Royal metro station on the orange line. Please note
 that there is paid parking (15$/day) behind the venue but it is often full and
 street parking is very challenging in the area.
 
+## Schedule
+
+A provisional schedule is available [here](https://cfp.tracingsummit.org/ts2025/schedule/).
+
 ## Presentation Proposals
 The Call for Proposals for this event closed on June 13th.
 
