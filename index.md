@@ -29,9 +29,42 @@ minute walk from the Mont-Royal metro station on the orange line. Please note
 that there is paid parking (15$/day) behind the venue but it is often full and
 street parking is very challenging in the area.
 
+Doors open at 9:00, enter from 4388 St-Denis street and take the
+elevator to the second floor. The conference will be hosted in the "Bonjour"
+room to the right side of the lobby. Note that the venue is a shared co-working
+space, all attendees have access to the common spaces like the lobby, kitchen
+and roof terrace.
+
+Coffee, snacks and other beverages will be served in the "Bonjour" room. There
+is also a café in the lobby where you can purchase speciality coffees,
+pastries, sandwiches, etc.
+
+## Lunch
+
+Lunchtime is from 12:00 to 13:30, lunch is not provided but there are many
+restaurants in a 5 minute walk radius from the venue mainly on St-Denis and
+Mont-Royal street.
+
+Recommended options:
+* Kawa Café (331 Mont-Royal): Great sandwiches on bread baked to order.
+* Sammi & Soupe Dumpling (376 Mont-Royal): Soup dumplings.
+* DaWa chicken (300 Mont-Royal): Korean fried chicken and other specialties.
+
+## Evening event
+
+For those who would like to socialise after the conference, we have a
+reservation on tuesday at the [Vice & Versa](https://vicesetversa.com/) brewpub
+starting at 17:30, this being a free event, there is no food or drinks
+included.
+
+The brewpub is located at [6631 St Laurent
+Blvd](https://maps.app.goo.gl/BYM5eWWEoWDfiJf58), a solid 40 minute walk. We
+recommend taking the metro from Mont-Royal to Beaubien station, then it's a 10
+minute walk to the pub.
+
 ## Schedule
 
-A provisional schedule is available [here](https://cfp.tracingsummit.org/ts2025/schedule/).
+The schedule and details of the talks are available [here](https://cfp.tracingsummit.org/ts2025/schedule/).
 
 ## Presentation Proposals
 The Call for Proposals for this event closed on June 13th.
