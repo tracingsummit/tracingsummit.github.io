@@ -19,7 +19,11 @@ real-time systems, as well as kernel development.
 * Cost: free
 
 ## Registration
-This year tickets are free and seating is limited to 40 people. To register fill out this form: [Tracing Summit Registration](https://pretix.eu/diamon/ts2025/).
+This year tickets are free and seating is limited to 40 people. To register
+fill out this form: [Tracing Summit
+Registration](https://pretix.eu/diamon/ts2025/). For remote attendees, use this
+[link](https://events.teams.microsoft.com/event/c3bfd6e0-f944-4b5f-914e-ce6341b378c5@4f278736-4ab6-415c-957e-1f55336bd31e)
+to access the Teams meeting for the event.
 
 ## Venue
 The event will be held at [Montréal CoWork](https://www.montrealcowork.com/),
@@ -33,7 +37,8 @@ Doors open at 9:00, enter from 4388 St-Denis street and take the
 elevator to the second floor. The conference will be hosted in the "Bonjour"
 room to the right side of the lobby. Note that the venue is a shared co-working
 space, all attendees have access to the common spaces like the lobby, kitchen
-and roof terrace.
+and roof terrace. Quiet and noisy areas are labeled as such, your cooperation is
+appreciated.
 
 Coffee, snacks and other beverages will be served in the "Bonjour" room. There
 is also a café in the lobby where you can purchase speciality coffees,
@@ -45,10 +50,16 @@ Lunchtime is from 12:00 to 13:30, lunch is not provided but there are many
 restaurants in a 5 minute walk radius from the venue mainly on St-Denis and
 Mont-Royal street.
 
-Recommended options:
-* Kawa Café (331 Mont-Royal): Great sandwiches on bread baked to order.
-* Sammi & Soupe Dumpling (376 Mont-Royal): Soup dumplings.
-* DaWa chicken (300 Mont-Royal): Korean fried chicken and other specialties.
+Recommended options close to the venue:
+* Kawa Café (331 Mont-Royal E): Great sandwiches on bread baked to order.
+* Sammi & Soupe Dumpling (376 Mont-Royal E): Soup dumplings.
+* DaWa chicken (300 Mont-Royal E): Korean fried chicken and other specialties.
+
+Recommended options within a 10 to 15 minutes walk:
+* St-Viateur Bagel (1127 Mont-Royal E): Bagel sandwiches.
+* Romados (115 Rachel): Excellent portugese chicken.
+* Patati Patata (4177 St-Laurent): Tiny diner with great poutine.
+* Beauty's (93 Mont-Royal W): 80 year old jewish diner. 
 
 ## Evening event
 
