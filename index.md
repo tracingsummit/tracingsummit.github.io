@@ -73,9 +73,9 @@ Blvd](https://maps.app.goo.gl/BYM5eWWEoWDfiJf58), a solid 40 minute walk. We
 recommend taking the metro from Mont-Royal to Beaubien station, then it's a 10
 minute walk to the pub.
 
-## Schedule
+## Schedule and Video Recordings
 
-The schedule and details of the talks are available [here](https://cfp.tracingsummit.org/ts2025/schedule/).
+The schedule, details, and video recordings of the talks are available [here](https://cfp.tracingsummit.org/ts2025/schedule/).
 
 ## Presentation Proposals
 The Call for Proposals for this event closed on June 13th.
