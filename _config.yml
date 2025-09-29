@@ -15,6 +15,7 @@ author: EfficiOS
 
 navbar-links:
   Past editions:
+    - TS 2025: "/ts/2025"
     - TS 2023: "/ts/2023"
     - TS 2022: "/ts/2022"
     - TS 2019: "/ts/2019"

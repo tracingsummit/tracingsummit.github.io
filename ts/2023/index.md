@@ -2,7 +2,6 @@
 layout: page
 title: Tracing Summit 2023
 subtitle:
-redirect_from: /wiki/Main_Page/
 ---
 
 The Tracing Summit 2023 is a two-day, single-track conference on the topic of

@@ -2,7 +2,6 @@
 layout: page
 title: Tracing Summit 2022
 subtitle:
-redirect_from: /wiki/Main_Page/
 ---
 
 The 2022 Tracing Summit is a three-day, single-track conference on the topic of tracing. The event focuses on software and hardware tracing, gathering developers and end-users of tracing and trace analysis tools. The main goal of the Tracing Summit is to provide space for discussion between people of the various areas that benefit from tracing, namely parallel, distributed and/or real-time systems, as well as kernel development.
